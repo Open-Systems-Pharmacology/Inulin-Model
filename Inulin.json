@@ -291,7 +291,12 @@
           "Parameters": [
             {
               "Name": "GFR fraction",
-              "Value": 1.0
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Tsuji1983 (DOI: 10.1002/jps.2600721103)"
+              }
             }
           ]
         }
@@ -557,7 +562,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-15 13:40"
         },
         {
           "Axes": [
@@ -626,7 +631,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-15 13:40"
         },
         {
           "Axes": [
@@ -695,7 +700,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-15 13:40"
         },
         {
           "Axes": [
@@ -764,7 +769,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-15 13:40"
         },
         {
           "Axes": [
@@ -833,7 +838,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-15 13:40"
         },
         {
           "Axes": [
@@ -902,7 +907,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-15 13:40"
         },
         {
           "Axes": [
@@ -971,7 +976,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-15 13:40"
         },
         {
           "Axes": [
@@ -1049,7 +1054,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_20mgkg\n2023-03-15 13:40"
         }
       ]
     },
@@ -1190,7 +1195,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_200mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_200mgkg\n2023-03-15 13:39"
         },
         {
           "Axes": [
@@ -1257,7 +1262,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Inulin\nInulin_200mgkg\n2023-03-07 11:22"
+          "OriginText": "Inulin\nInulin_200mgkg\n2023-03-15 13:39"
         }
       ]
     }
